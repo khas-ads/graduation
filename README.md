@@ -1,3 +1,34 @@
+K.H.U. Faculty of Engineering and Natural Sciences
+
+
+
+
+GE_MIS_IT_BG400 BACHELORS PROJECT
+PROPOSAL
+
+
+
+
+
+
+
+IT BASED: WALKING INTERACTIVE ADVERTISEMENT PANEL
+
+Project Advisor: 	
+
+Prof. Dr. Hasan Dağ 
+Birgit Oberer
+
+Project Team:	 	
+
+Duygu Sezik-MIS
+Saime Zeynep Buruntay-MIS
+Caner Arı-MIS
+Hasan Kökoğlu-MIS
+
+Submission Date:	11.12.2014
+
+
 ABSTRACT:
 
 The Walking Interactive Advertisement Panel is a panel that a person carries on his/her back and displays instantly or previously scheduled advertisement videos and campaigns which are installed over a website and also  making surveys and gathering information is also possible with it. This panel is considered as an alternative way of advertising. 
@@ -9,9 +40,8 @@ AIM:
 
 The objective of this project is making an IT based innovative mobile application to reduce advertising cost per person for advertisers, to reach a qualified audience and to increase the return of advertisement.
 
- 
-METHODOLOGY:
 
+METHODOLOGY:
 
 To achieve the objectives of this project, several methods
 were employed.
@@ -20,6 +50,8 @@ This includes the following:
 • Agile methodology while software developing and web design,
 • Prototyping at the end of software developing by integration the system with the supplied device,
 • Semi-structured interviews with randomly customers in reporting stage
+
+
 
 
 
